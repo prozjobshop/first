@@ -198,6 +198,14 @@ include_once($real_path . 'job.php');
 
 
 
+/* * ******** ResumeController ************ */
+
+
+
+include_once($real_path . 'resume_builder.php');
+
+
+
 /* * ******** ContactController ************ */
 
 
